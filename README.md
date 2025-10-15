@@ -80,7 +80,7 @@ Stacking Classifier (ensemble method)
 
 Use accuracy score and confusion matrix to evaluate performance.
 
-STEP 6 — Discussion & Conclusion
+## STEP 6 — Discussion & Conclusion
 
 Compare label encoding methods (sp1 vs sp2).
 
